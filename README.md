@@ -21,9 +21,9 @@ Testing Set: We use the testing set of NJUD, NLPR, DUTLF-RGBD, STERE-1000, and S
 
 
 # Our Saliency Maps
-RGB SOD: Our saliency maps can be downloaded from [baidu pan](https://pan.baidu.com/s/1RBsLGp6aHK5xyzoD3t-8-w)fetch code: gx1h
+RGB SOD: Our saliency maps can be downloaded from [[baidu pan](https://pan.baidu.com/s/1RBsLGp6aHK5xyzoD3t-8-w) fetch code: gx1h]
 
-RGB-D SOD: Our saliency maps can be downloaded from [baidu pan](https://pan.baidu.com/s/1EzzAkAk2QMG9SRfP-PNcNw)fetch code: mmiv
+RGB-D SOD: Our saliency maps can be downloaded from [[baidu pan](https://pan.baidu.com/s/1EzzAkAk2QMG9SRfP-PNcNw) fetch code: mmiv]
 
 # Others
 The code comments and detailed usage will be added in the future.
