@@ -11,8 +11,8 @@ Authors: Jun Chen, Zhifan Gao, Mingming Gong, Heye Zhang
 Pytorch 1.6.0;  Python = 3.6
 ```
 
-#Data Preparation
-##RGB SOD
+# Data Preparation
+## RGB SOD
 Training Set: We use the training set of DUTS to train our CRTINet. 
 
 Testing Set: We use the testing set of DUTS, ECSSD, HKU-IS, PASCAL-S, and DUT-O to test our CRTINet.
