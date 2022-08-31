@@ -20,9 +20,10 @@ Training Set: We follow previous studies to use the same 800 samples from DUT-RG
 Testing Set: We use the testing set of NJUD, NLPR, DUTLF-Depth, STERE-1000, and SIP to test our CRTINet.
 
 
+# Our Saliency Maps
+RGB SOD: Our saliency maps can be downloaded from [baidu pan fetch code: jovk | Google drive].
 
+RGB-D SOD: Our saliency maps can be downloaded from [baidu pan fetch code: jovk | Google drive].
 
-
-  
-## Others
+# Others
 The code comments and detailed usage will be added in the future.
