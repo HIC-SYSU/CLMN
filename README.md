@@ -5,8 +5,21 @@ Salient Object Detection
 Authors: Jun Chen, Zhifan Gao, Mingming Gong, Heye Zhang
 
 ![image](https://github.com/HIC-SYSU/CRTINet/blob/main/framework.jpg)
-## Introduction
-This repository provides the implementation of CRTINet on cross-domain data in the following paper:  
+
+# Requirement
+```
+Pytorch 1.6.0;  Python = 3.6
+```
+
+#Data Preparation
+##RGB SOD
+Training Set: We use the training set of DUTS to train our CRTINet. 
+
+Testing Set: We use the testing set of DUTS, ECSSD, HKU-IS, PASCAL-S, and DUT-O to test our CRTINet.
+
+
+
+
 
 [**Adaptive Hierarchical Dual Consistency for Semi-Supervised Left Atrium Segmentation on Cross-Domain Data**](https://ieeexplore.ieee.org/document/9540830)  
 
@@ -26,10 +39,7 @@ IEEE Transactions on Medical Imaging (2021)
  }
 ```
 
-## Requirement
-```
-Tensorflow = 1.9.0;  Python = 3.6
-```
+
   
 ## Others
 The code comments and detailed usage will be added in the future.
