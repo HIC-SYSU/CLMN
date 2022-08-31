@@ -1,2 +1,2 @@
-# CLMN
+# CRTINet
 Salient Object Detection
