@@ -1,7 +1,4 @@
-# CRTINet
-Salient Object Detection
-
-# Collaborative Relation Transformer based Interactive Network for Salient Object Detection
+# Collaborative Relation Transformer based Interactive Network for Salient Object Detection (CRTINet)
 Authors: Jun Chen, Zhifan Gao, Mingming Gong, Heye Zhang
 
 ![image](https://github.com/HIC-SYSU/CRTINet/blob/main/framework.jpg)
