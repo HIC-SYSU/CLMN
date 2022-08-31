@@ -4,7 +4,7 @@ Salient Object Detection
 # Collaborative Relation Transformer based Interactive Network for Salient Object Detection
 Authors: Jun Chen, Zhifan Gao, Mingming Gong, Heye Zhang
 
-![image](https://github.com/Heye-SYSU/AHDC/blob/main/Framework.jpeg)
+![image](https://github.com/Heye-SYSU/CRTINet/blob/main/framework.jpg)
 
 ## Introduction
 This repository provides the implementation of CRTINet on cross-domain data in the following paper:  
